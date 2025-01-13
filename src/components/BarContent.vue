@@ -54,7 +54,7 @@ box-icon {
 }
 .btn-smell {
   position: relative;
-  top: 239px;
+  top: 215px;
   left: 1078px;
 }
 .nav-btn-active {
