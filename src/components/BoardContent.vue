@@ -2,8 +2,6 @@
 import { useLayoutStore } from '@/stores/layout';
 // Utilisation du store Pinia
 const layout = useLayoutStore ()
-// import BarChart from '@/components/BarChart.vue'
-// import SectionBar from '@/components/SectionBar.vue'
 </script>
 <template>
     <section>
@@ -32,8 +30,6 @@ const layout = useLayoutStore ()
   </div>
   </div>
   </section>
-  <!-- <BarChart/> -->
-  <!-- <SectionBar/> -->
 </template>
 
 <style scoped>

@@ -73,12 +73,12 @@
 .container{
   position: absolute;
   right: 82px;
-  top: 920px;
+  top: 675px;
 }
 .numbers {
   position: absolute;
   right: 2px;
-  top: 1009px;
+  top: 760px;
 }
 .numbers code{
   color: green;
