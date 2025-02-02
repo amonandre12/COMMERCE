@@ -30,7 +30,7 @@ const layout = useLayoutStore ()
 <div class="number">
   <span>6200DA</span>
 </div>
-<div class="personal"> 
+<div class="personal">
   Amir sourl
 </div>
 <div class="rounded">
@@ -68,7 +68,7 @@ const layout = useLayoutStore ()
 }
 
 .box-icon p {
-  background-color:#9FCDA8; 
+  background-color:#9FCDA8;
   border-radius:50px;
   position: relative;
   right: 8px;
@@ -104,5 +104,6 @@ section :hover {
 }
 section {
   display: flex;
+  cursor: pointer;
 }
 </style>

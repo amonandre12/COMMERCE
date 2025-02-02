@@ -21,7 +21,7 @@ const layout = useLayoutStore ()
   <p><box-icon name='badge-check' class="box"></box-icon> <span> Active</span></p>
 </div>
 <div class="variantes">
-  50 en stock 
+  50 en stock
 </div>
 <div class="lang">
  الخط العربي جميل
@@ -68,7 +68,7 @@ const layout = useLayoutStore ()
 }
 
 .box-icon p {
-  background-color:#9FCDA8; 
+  background-color:#9FCDA8;
    border-radius:50px;
    position: relative;
    right: 10px;
@@ -103,5 +103,6 @@ section :hover {
 }
 section {
   display: flex;
+  cursor: pointer;
 }
 </style>

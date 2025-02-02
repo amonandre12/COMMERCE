@@ -17,8 +17,8 @@ const hidMenu = () => {
     #
   </label>
 </div>
- <p class="date"> <span>Date </span><box-icon name='expand-vertical' class="expand-vertical"></box-icon></p> 
- <p class="status"><span>Status </span><box-icon name='expand-vertical' class="expand-vertical"></box-icon></p> 
+ <p class="date"> <span>Date </span><box-icon name='expand-vertical' class="expand-vertical"></box-icon></p>
+ <p class="status"><span>Status </span><box-icon name='expand-vertical' class="expand-vertical"></box-icon></p>
  <p class="send">Livrée à</p>
  <p class="tracking">Tracking n°</p>
  <p class="paiment">Paiement</p>
@@ -32,7 +32,7 @@ const hidMenu = () => {
         <li class="delete">Supprimer <span class="shortcut">⌘ X</span></li>
     </ul>
 </div>
-  </div>
+  </div> 
   </section>
 </template>
 

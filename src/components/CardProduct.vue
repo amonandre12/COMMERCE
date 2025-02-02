@@ -68,7 +68,7 @@ const layout = useLayoutStore ()
 }
 
 .box-icon p {
-  background-color:#9FCDA8; 
+  background-color:#9FCDA8;
    border-radius:50px;
 }
 section :hover {
@@ -101,5 +101,6 @@ section :hover {
 }
 section {
   display: flex;
+  cursor: pointer;
 }
 </style>
